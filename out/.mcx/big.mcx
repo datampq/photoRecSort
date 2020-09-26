@@ -1,0 +1,66 @@
+{
+  "ID": "9bf51029-eed5-406b-b6dd-05b8a9af6467",
+  "Name": "",
+  "Children": [
+    {
+      "ID": "2acbae0c-ea26-4576-af11-de5b9e50f45a",
+      "MaitainProportions": true,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,25.250000953674316,0.0,0.0,1.0]",
+      "Name": "Scale",
+      "Operation": 4,
+      "ScaleAbout": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "ScaleRatio": {
+        "X": 10.0,
+        "Y": 10.0,
+        "Z": 10.0
+      },
+      "TypeName": "ScaleObject3D",
+      "UsePercentage": false,
+      "Children": [
+        {
+          "ID": "b9f075bf-63b7-4ddf-b4a9-709df2604ebf",
+          "Matrix": "[10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,1.0]",
+          "Name": "",
+          "Children": [
+            {
+              "ID": "4c366267-d369-40b5-8fb8-1b8cea9c06f5",
+              "MaitainProportions": true,
+              "Name": "Scale",
+              "Operation": 0,
+              "ScaleAbout": {
+                "X": 2.0,
+                "Y": 2.0,
+                "Z": 2.0
+              },
+              "ScaleRatio": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "TypeName": "ScaleObject3D",
+              "UsePercentage": false,
+              "Children": [
+                {
+                  "ID": "c389b412-d37f-4505-9ef9-f335abd7e81a",
+                  "Name": "",
+                  "Children": [
+                    {
+                      "ID": "a393f10b-f9d9-4099-8728-7c1bebb54ea4",
+                      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,13.067400932312012,-38.2755012512207,1.1713999509811401,1.0]",
+                      "MeshPath": "7DB2D3035D9634B48B6A15F95770C5F2B15FCE19.stl",
+                      "Name": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
